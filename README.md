@@ -27,8 +27,8 @@ My name is **Phạm Đại Nghĩa**.
 ### 📊 GitHub Stats:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sup-Kan&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" width="40%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sup-Kan&layout=compact&theme=dark&hide_border=true" alt="Top Languages" width="40%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Sup-Kan&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sup-Kan&layout=compact&theme=dark&hide_border=true" alt="Top Languages" width="45%" />
 </p>
 
 <!--
