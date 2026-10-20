@@ -1,4 +1,35 @@
-## Hi there 👋
+### WELCOME TO MY PAGE 👋👋👋
+
+My name is **Phạm Đại Nghĩa**.  
+🔭 I’m currently studying at [Thăng Long University](https://thanglong.edu.vn/).  
+🌱 I’m currently focusing on **Artificial Intelligence (AI)**.  
+💡 I am interested in the following topics: **Deep Learning**, **Computer Vision**, and **Large Language Models (LLM)**.
+
+---
+
+### 🌐 Connect with me:
+
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sup-Kan)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dainghiapham2511@gmail.com)
+
+---
+
+### 🛠️ Tech Stack & Tools:
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
+---
+
+### 📊 GitHub Stats:
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sup-Kan&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" width="40%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sup-Kan&layout=compact&theme=dark&hide_border=true" alt="Top Languages" width="40%" />
+</p>
 
 <!--
 **Sup-Kan/Sup-Kan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
